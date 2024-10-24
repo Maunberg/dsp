@@ -1,0 +1,3 @@
+[submodule "first_part/dsp_labs_book"]
+	path = first_part/dsp_labs_book
+	url = https://github.com/itmo-mbss-lab/dsp_labs_book.git
